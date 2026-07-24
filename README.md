@@ -18,7 +18,7 @@
 <!-- ============ ABOUT ============ -->
 ## 👋 About me
 
-Business (Finance) major and Entrepreneurship minor at **Rice University**, currently interning in **oil & gas minerals & royalty** at Leggett Ventures. I sit at the intersection of **markets and code** — I build small, sharp tools that solve a real problem for a real person, then ship them the same day.
+Business (Finance) major and Entrepreneurship minor at **Rice University**.
 
 - 🛢️ Building internal tooling for minerals/royalty deal workflows (deed tracking, NRI/AFE math, cost-share)
 - 📈 Writing fintech side-projects — live portfolio trackers, market briefings, and investing study tools
@@ -60,19 +60,6 @@ Business (Finance) major and Entrepreneurship minor at **Rice University**, curr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jd182-jpg&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="Streak" width="49%"/>
 
 </div>
-
-<!-- ============ PROJECTS ============ -->
-## 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Flight Price Advisor](https://github.com/jd182-jpg/flight-price-advisor)** | Tells you when to buy a plane ticket — buy / wait / monitor calls from real fare data, booking windows, and seasonality | TypeScript · Node |
-| **[Positive Altitudes](https://jd182-jpg.github.io/positive-altitudes)** | Site for a Milwaukee youth downhill-skiing nonprofit — photos, sponsors, press | HTML · CSS |
-| **[Portfolio Analyzer](https://github.com/jd182-jpg/portfolio-analyzer)** | Breaks down a stock portfolio's holdings, weights, and exposure | HTML · JS |
-| **[Sub Bid Requests](https://jd182-jpg.github.io/sub-bids)** | Bulk-drafts ~60 subcontractor bid emails per build from a budget + vendor list | HTML · JS |
-| **[Rice Courses](https://github.com/jd182-jpg/rice-courses)** | Degree-tracking tools for my Rice Finance + Entrepreneurship track | HTML · JS |
-
-<sub>…and a stack of private tools for minerals/royalty deal work, plus native iOS apps I run on my own phone.</sub>
 
 <!-- ============ CONNECT ============ -->
 ## 🤝 Connect
