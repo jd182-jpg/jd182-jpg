@@ -1,7 +1,11 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1f6feb&height=200&section=header&text=Jackson%20Darr&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Finance%20student%20%C2%B7%20builder%20of%20small%2C%20useful%20software&descSize=18&descAlignY=60" width="100%" alt="Jackson Darr"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:1f6feb&height=200&section=header&text=Jackson%20Darr&fontSize=58&fontColor=ffffff&fontAlignY=38" width="100%" alt="Jackson Darr"/>
+
+<a href="https://github.com/jd182-jpg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&height=45&lines=Finance+student+%26+builder;Rice+University%3A+Finance+%2B+Entrepreneurship;I+ship+small%2C+sharp%2C+useful+tools;Markets+%2B+code%2C+same-day+shipping" alt="Typing intro"/>
+</a>
 
 <p>
   <a href="https://jd182-jpg.github.io/positive-altitudes"><img src="https://img.shields.io/badge/Portfolio-projects-1f6feb?style=for-the-badge&labelColor=0a2540" alt="Projects"/></a>
