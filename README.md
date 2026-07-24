@@ -85,3 +85,5 @@ Business (Finance) major and Entrepreneurship minor at **Rice University**, curr
 <i>“Ship fast. Keep it simple. Make it useful.”</i>
 
 </div>
+
+<!-- profile refresh -->
